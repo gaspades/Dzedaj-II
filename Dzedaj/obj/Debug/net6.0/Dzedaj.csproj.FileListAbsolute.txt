@@ -1,0 +1,42 @@
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\Dzedaj.exe
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\Dzedaj.deps.json
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\Dzedaj.runtimeconfig.json
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\Dzedaj.dll
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\Dzedaj.pdb
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.csproj.AssemblyReference.cache
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.AssemblyInfoInputs.cache
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.AssemblyInfo.cs
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.csproj.CoreCompileInputs.cache
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.dll
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\refint\Dzedaj.dll
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.pdb
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.genruntimeconfig.cache
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\ref\Dzedaj.dll
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\The Clash - Rock the Casbah.wav
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\Django Django - Firewater.wav
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\Dzedaj.exe
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\Django Django - Firewater.wav
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\The Clash - Rock the Casbah.wav
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\Dzedaj.deps.json
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\Dzedaj.runtimeconfig.json
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\Dzedaj.dll
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\Dzedaj.pdb
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.AssemblyInfoInputs.cache
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.AssemblyInfo.cs
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.csproj.CopyComplete
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.dll
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\refint\Dzedaj.dll
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.pdb
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.genruntimeconfig.cache
+C:\Users\Učenik\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\ref\Dzedaj.dll
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\Diskette\D1\start.zip
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\bin\Debug\net6.0\WIN98.wav
+C:\Users\neven\source\repos\Dzedaj\Dzedaj\obj\Debug\net6.0\Dzedaj.csproj.Up2Date

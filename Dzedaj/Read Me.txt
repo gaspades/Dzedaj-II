@@ -1,0 +1,8 @@
+﻿Džedaj II
+
+INFO==
+
+Džedaj II (eng. Jedi II) is an Open Source C# console terminal program or retro style simulation inspired by the 1977 Apple II computer that was put together by Steve Jobs and Steve Wozniak. This program is compiled for Windows software only. The developer of this simulator is Galactic Space Designer and this program is under the Common Creative license.
+
+INTRUCTIONS==
+Using Jedi II is simple. When you run that simulator. You will see a window that is completely black. During startup you will see the title "DZEDAJ ][", this is the unlock screen. You just need to click the backspace key to start the operation with the simulator. When you have unlocked the simulator you will see "", this is called the command line input or "prompt". It is normally used to enter commands into the simulator, you have to enter the commands correctly and one by one so that the simulator understands the task it needs to do.
