@@ -1,2 +1,2 @@
 # Dzedaj II
-C# Console App inspired on Apple II Computer.
+Dzedaj II is C# Console App
